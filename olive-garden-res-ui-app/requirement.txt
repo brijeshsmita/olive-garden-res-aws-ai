@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+boto3
+pandas
+openpyxl
+Pillow
