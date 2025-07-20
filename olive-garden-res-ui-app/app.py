@@ -178,8 +178,8 @@ if menu == "Call Agent":
     user_input = st.text_input("Ask your question:")
 
     # AWS Bedrock Agent configuration
-    AGENT_ID = "8XAWF2A0JI"
-    AGENT_ALIAS_ID = "XOSBDAEQQN"
+    AGENT_ID = "1AZMP4ZQAO"
+    AGENT_ALIAS_ID = "N2XDPSWH9B"
     REGION = "us-east-1"
 
     if st.button("Send") and user_input:
